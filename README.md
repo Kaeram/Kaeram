@@ -1,5 +1,4 @@
 ## Hi there 👋
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=pu0hcjv4vbr7plw7ul9aypfbw)
 <!--
 **Kaeram/Kaeram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
