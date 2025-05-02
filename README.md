@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kaushike Ramanathan</h1>
+<h1 align="center">Hi </h1>
 <h3 align="center">I am passionate about coding, cybersecurity, and cloud technology,organize workshops, actively participating in hackathons to expand my knowledge</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development and Power Bi**
